@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   sodipodi:docname="drawing.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient899">
+      <stop
+         style="stop-color:#0000ff;stop-opacity:1;"
+         offset="0"
+         id="stop895" />
+      <stop
+         style="stop-color:#0000ff;stop-opacity:0;"
+         offset="1"
+         id="stop897" />
+    </linearGradient>
+    <rect
+       x="-248"
+       y="168"
+       width="224"
+       height="16"
+       id="rect870" />
+    <rect
+       x="-184"
+       y="96"
+       width="16"
+       height="56"
+       id="rect864" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient899"
+       id="linearGradient901"
+       x1="-161.59741"
+       y1="57.043871"
+       x2="-116.64333"
+       y2="57.043871"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.44673882"
+     inkscape:cx="-192.19139"
+     inkscape:cy="31.886959"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     showborder="false"
+     inkscape:lockguides="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="0,297"
+       orientation="0,793.70079"
+       id="guide10" />
+    <sodipodi:guide
+       position="210,297"
+       orientation="1122.5197,0"
+       id="guide12" />
+    <sodipodi:guide
+       position="210,0"
+       orientation="0,-793.70079"
+       id="guide14" />
+    <sodipodi:guide
+       position="-16,233"
+       orientation="-1122.5197,0"
+       id="guide16" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid18"
+       units="mm"
+       spacingx="1"
+       spacingy="1"
+       empspacing="4" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       id="text862"
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:10.58333333px;white-space:pre;shape-inside:url(#rect864);" />
+    <text
+       xml:space="preserve"
+       id="text868"
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:10.58333333px;white-space:pre;shape-inside:url(#rect870);" />
+    <g
+       id="g893"
+       transform="translate(-49.441912,-48.268747)"
+       style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">
+      <g
+         id="g857"
+         transform="translate(-31.999998,1.343176)"
+         style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">
+        <g
+           id="g860"
+           style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">
+          <circle
+             style="fill:#000001;fill-opacity:1;stroke:#0000fe;stroke-width:0.0176737;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path20"
+             cx="-54.223236"
+             cy="103.03873"
+             r="49.486359" />
+        </g>
+      </g>
+      <g
+         id="g854"
+         inkscape:transform-center-x="-1.4924915"
+         inkscape:transform-center-y="1.4924915"
+         transform="translate(-31.999992)"
+         style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">
+        <g
+           id="g850"
+           style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">
+          <rect
+             style="fill:#000000;fill-opacity:1;stroke:#0000ff;stroke-width:0.02;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="rect847"
+             width="79.576027"
+             height="79.576027"
+             x="-4.827311"
+             y="72.329498"
+             ry="3.3156657"
+             transform="rotate(45)" />
+        </g>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12.0088px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:0.02;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="-160.56631"
+         y="69.278023"
+         id="text876"
+         transform="matrix(0.6952035,-0.69520351,0.71921386,0.71921386,0,0)"
+         inkscape:transform-center-x="10.686877"
+         inkscape:transform-center-y="13.379557"><tspan
+           sodipodi:role="line"
+           id="tspan874"
+           x="-160.56631"
+           y="69.278023"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:0.02;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Dómald</tspan></text>
+      <g
+         id="g881"
+         transform="translate(32.000002,24.000002)"
+         style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
+    </g>
+  </g>
+</svg>
